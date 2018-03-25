@@ -9,5 +9,8 @@
 #import "UIImage+Image.h"
 
 @implementation UIImage (Image)
-
++ (UIImage *)imageOriginalWithName:(NSString *)name {
+    UIImage *image = [UIImage imageNamed:name];
+    return [image imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+}
 @end

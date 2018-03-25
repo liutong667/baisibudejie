@@ -15,6 +15,15 @@
 		A86BF5062061562E00BF0D20 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A86BF5052061562E00BF0D20 /* main.m */; };
 		A86BF50F206157A700BF0D20 /* UIImage+Image.m in Sources */ = {isa = PBXBuildFile; fileRef = A86BF50E206157A700BF0D20 /* UIImage+Image.m */; };
 		A86BF5142061581000BF0D20 /* LTTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = A86BF5132061581000BF0D20 /* LTTabBarController.m */; };
+		A8CBD47A2067DE2600681D5C /* LTEssenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD4792067DE2600681D5C /* LTEssenceViewController.m */; };
+		A8CBD47D2067DE3100681D5C /* LTNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD47C2067DE3100681D5C /* LTNewViewController.m */; };
+		A8CBD4802067DE3D00681D5C /* LTFriendTrendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD47F2067DE3D00681D5C /* LTFriendTrendViewController.m */; };
+		A8CBD4832067DE4500681D5C /* LTMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD4822067DE4500681D5C /* LTMeViewController.m */; };
+		A8CBD4862067DE5300681D5C /* LTPublishViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD4852067DE5300681D5C /* LTPublishViewController.m */; };
+		A8CBD4892067DECB00681D5C /* LTNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD4882067DECB00681D5C /* LTNavigationViewController.m */; };
+		A8CBD48D2067E3BB00681D5C /* LTTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD48C2067E3BB00681D5C /* LTTabBar.m */; };
+		A8CBD4902067E3F200681D5C /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD48F2067E3F200681D5C /* UIView+Frame.m */; };
+		A8CBD4932067EBFC00681D5C /* UIBarButtonItem+Item.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CBD4922067EBFC00681D5C /* UIBarButtonItem+Item.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +41,24 @@
 		A86BF50E206157A700BF0D20 /* UIImage+Image.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Image.m"; sourceTree = "<group>"; };
 		A86BF5122061581000BF0D20 /* LTTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTTabBarController.h; sourceTree = "<group>"; };
 		A86BF5132061581000BF0D20 /* LTTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTTabBarController.m; sourceTree = "<group>"; };
+		A8CBD4782067DE2600681D5C /* LTEssenceViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTEssenceViewController.h; sourceTree = "<group>"; };
+		A8CBD4792067DE2600681D5C /* LTEssenceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTEssenceViewController.m; sourceTree = "<group>"; };
+		A8CBD47B2067DE3100681D5C /* LTNewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTNewViewController.h; sourceTree = "<group>"; };
+		A8CBD47C2067DE3100681D5C /* LTNewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTNewViewController.m; sourceTree = "<group>"; };
+		A8CBD47E2067DE3D00681D5C /* LTFriendTrendViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTFriendTrendViewController.h; sourceTree = "<group>"; };
+		A8CBD47F2067DE3D00681D5C /* LTFriendTrendViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTFriendTrendViewController.m; sourceTree = "<group>"; };
+		A8CBD4812067DE4500681D5C /* LTMeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTMeViewController.h; sourceTree = "<group>"; };
+		A8CBD4822067DE4500681D5C /* LTMeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTMeViewController.m; sourceTree = "<group>"; };
+		A8CBD4842067DE5300681D5C /* LTPublishViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTPublishViewController.h; sourceTree = "<group>"; };
+		A8CBD4852067DE5300681D5C /* LTPublishViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTPublishViewController.m; sourceTree = "<group>"; };
+		A8CBD4872067DECB00681D5C /* LTNavigationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTNavigationViewController.h; sourceTree = "<group>"; };
+		A8CBD4882067DECB00681D5C /* LTNavigationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTNavigationViewController.m; sourceTree = "<group>"; };
+		A8CBD48B2067E3BB00681D5C /* LTTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTTabBar.h; sourceTree = "<group>"; };
+		A8CBD48C2067E3BB00681D5C /* LTTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTTabBar.m; sourceTree = "<group>"; };
+		A8CBD48E2067E3F200681D5C /* UIView+Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		A8CBD48F2067E3F200681D5C /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		A8CBD4912067EBFC00681D5C /* UIBarButtonItem+Item.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+Item.h"; sourceTree = "<group>"; };
+		A8CBD4922067EBFC00681D5C /* UIBarButtonItem+Item.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+Item.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +91,11 @@
 		A86BF4F52061562E00BF0D20 /* BaiJie */ = {
 			isa = PBXGroup;
 			children = (
+				A8CBD4772067DE0500681D5C /* Publish */,
+				A8CBD4762067DDFA00681D5C /* Me */,
+				A8CBD4752067DDE700681D5C /* FriendTrend */,
+				A8CBD4742067DDD900681D5C /* New */,
+				A8CBD4732067DDC500681D5C /* Essence */,
 				A86BF511206157D100BF0D20 /* Main */,
 				A86BF50C2061577900BF0D20 /* Other */,
 				A86BF4F62061562E00BF0D20 /* AppDelegate.h */,
@@ -84,6 +116,10 @@
 			children = (
 				A86BF50D206157A700BF0D20 /* UIImage+Image.h */,
 				A86BF50E206157A700BF0D20 /* UIImage+Image.m */,
+				A8CBD48E2067E3F200681D5C /* UIView+Frame.h */,
+				A8CBD48F2067E3F200681D5C /* UIView+Frame.m */,
+				A8CBD4912067EBFC00681D5C /* UIBarButtonItem+Item.h */,
+				A8CBD4922067EBFC00681D5C /* UIBarButtonItem+Item.m */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -91,10 +127,67 @@
 		A86BF511206157D100BF0D20 /* Main */ = {
 			isa = PBXGroup;
 			children = (
+				A8CBD48A2067E3AD00681D5C /* views */,
 				A86BF5122061581000BF0D20 /* LTTabBarController.h */,
 				A86BF5132061581000BF0D20 /* LTTabBarController.m */,
+				A8CBD4872067DECB00681D5C /* LTNavigationViewController.h */,
+				A8CBD4882067DECB00681D5C /* LTNavigationViewController.m */,
 			);
 			path = Main;
+			sourceTree = "<group>";
+		};
+		A8CBD4732067DDC500681D5C /* Essence */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD4782067DE2600681D5C /* LTEssenceViewController.h */,
+				A8CBD4792067DE2600681D5C /* LTEssenceViewController.m */,
+			);
+			path = Essence;
+			sourceTree = "<group>";
+		};
+		A8CBD4742067DDD900681D5C /* New */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD47B2067DE3100681D5C /* LTNewViewController.h */,
+				A8CBD47C2067DE3100681D5C /* LTNewViewController.m */,
+			);
+			path = New;
+			sourceTree = "<group>";
+		};
+		A8CBD4752067DDE700681D5C /* FriendTrend */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD47E2067DE3D00681D5C /* LTFriendTrendViewController.h */,
+				A8CBD47F2067DE3D00681D5C /* LTFriendTrendViewController.m */,
+			);
+			path = FriendTrend;
+			sourceTree = "<group>";
+		};
+		A8CBD4762067DDFA00681D5C /* Me */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD4812067DE4500681D5C /* LTMeViewController.h */,
+				A8CBD4822067DE4500681D5C /* LTMeViewController.m */,
+			);
+			path = Me;
+			sourceTree = "<group>";
+		};
+		A8CBD4772067DE0500681D5C /* Publish */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD4842067DE5300681D5C /* LTPublishViewController.h */,
+				A8CBD4852067DE5300681D5C /* LTPublishViewController.m */,
+			);
+			path = Publish;
+			sourceTree = "<group>";
+		};
+		A8CBD48A2067E3AD00681D5C /* views */ = {
+			isa = PBXGroup;
+			children = (
+				A8CBD48B2067E3BB00681D5C /* LTTabBar.h */,
+				A8CBD48C2067E3BB00681D5C /* LTTabBar.m */,
+			);
+			path = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,8 +263,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				A86BF4FB2061562E00BF0D20 /* ViewController.m in Sources */,
+				A8CBD4892067DECB00681D5C /* LTNavigationViewController.m in Sources */,
+				A8CBD47A2067DE2600681D5C /* LTEssenceViewController.m in Sources */,
+				A8CBD4832067DE4500681D5C /* LTMeViewController.m in Sources */,
+				A8CBD47D2067DE3100681D5C /* LTNewViewController.m in Sources */,
+				A8CBD4932067EBFC00681D5C /* UIBarButtonItem+Item.m in Sources */,
+				A8CBD4902067E3F200681D5C /* UIView+Frame.m in Sources */,
 				A86BF50F206157A700BF0D20 /* UIImage+Image.m in Sources */,
+				A8CBD4802067DE3D00681D5C /* LTFriendTrendViewController.m in Sources */,
+				A8CBD4862067DE5300681D5C /* LTPublishViewController.m in Sources */,
 				A86BF5062061562E00BF0D20 /* main.m in Sources */,
+				A8CBD48D2067E3BB00681D5C /* LTTabBar.m in Sources */,
 				A86BF5142061581000BF0D20 /* LTTabBarController.m in Sources */,
 				A86BF4F82061562E00BF0D20 /* AppDelegate.m in Sources */,
 			);
